@@ -1,0 +1,3 @@
+DB_NAME = "company.db"
+
+SIMILARITY_THRESHOLD = 90
